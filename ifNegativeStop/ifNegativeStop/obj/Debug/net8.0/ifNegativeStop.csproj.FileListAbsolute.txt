@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\bin\Debug\net8.0\ifNegativeStop.exe
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\bin\Debug\net8.0\ifNegativeStop.deps.json
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\bin\Debug\net8.0\ifNegativeStop.runtimeconfig.json
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\bin\Debug\net8.0\ifNegativeStop.dll
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\bin\Debug\net8.0\ifNegativeStop.pdb
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.AssemblyInfo.cs
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.dll
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\refint\ifNegativeStop.dll
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.pdb
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ifNegativeStop.genruntimeconfig.cache
+C:\Users\elsad\source\repos\ifNegativeStop\ifNegativeStop\obj\Debug\net8.0\ref\ifNegativeStop.dll
