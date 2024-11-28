@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\bin\Debug\net8.0\Sumof1-10.exe
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\bin\Debug\net8.0\Sumof1-10.deps.json
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\bin\Debug\net8.0\Sumof1-10.runtimeconfig.json
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\bin\Debug\net8.0\Sumof1-10.dll
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\bin\Debug\net8.0\Sumof1-10.pdb
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.AssemblyInfo.cs
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.dll
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\refint\Sumof1-10.dll
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.pdb
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\Sumof1-10.genruntimeconfig.cache
+C:\Users\elsad\source\repos\Sumof1-10\Sumof1-10\obj\Debug\net8.0\ref\Sumof1-10.dll
